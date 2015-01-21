@@ -1,5 +1,7 @@
 [package]
 
-name = "rust-shapefile"
+name = "shapefile"
+description = "Rust read/write support for shapefiles"
+license = "Apache-2.0"
 version = "0.0.1"
 authors = ["Corey Farwell <coreyf@rwell.org>"]
